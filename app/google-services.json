@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797017391638",
+    "firebase_url": "https://chatadria-e56fa.firebaseio.com",
+    "project_id": "chatadria-e56fa",
+    "storage_bucket": "chatadria-e56fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797017391638:android:542778a9c9b67a27",
+        "android_client_info": {
+          "package_name": "com.example.chatadria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797017391638-c1gita6tmecudhlo54tq94pje5055sm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatadria",
+            "certificate_hash": "f20663f3df4dc65ceaf67a14b86c6a201971ff41"
+          }
+        },
+        {
+          "client_id": "797017391638-ol3rh1et1dd3skb6okdihmnvdr538ugk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7PgPYL-vJrd5YB1cfLaGgvjMpwfquJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797017391638-ol3rh1et1dd3skb6okdihmnvdr538ugk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
